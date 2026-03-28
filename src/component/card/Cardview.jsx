@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { CgProfile } from "react-icons/cg";
 import { CiFlag1 } from "react-icons/ci";
+import { toast } from "react-toastify";
 
 
 export default function CardView({ item ,coin,setcoin,select,setselect}) {
@@ -9,6 +10,8 @@ export default function CardView({ item ,coin,setcoin,select,setselect}) {
         setselected(true)
         setcoin(coin-item.price)
         setselect([...select,item])
+        toast.success("Player selected")
+        
     }
   return (
     <div className=" max-w-xs bg-white rounded-xl shadow-lg overflow-hidden m-4 hover:scale-105 transform transition duration-300">

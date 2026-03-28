@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "category": "Batsman",
+    "rating": 90,
+    "hand": "Right-hand bat",
+    "price": 1200000,
+    "image": "https://ui-avatars.com/api/?name=Virat+Kohli&background=random"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "category": "Batsman",
+    "rating": 91,
+    "hand": "Right-hand bat",
+    "price": 1100000,
+    "image": "https://ui-avatars.com/api/?name=Babar+Azam&background=random"
+  },
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "category": "All-rounder",
+    "rating": 92,
+    "hand": "Left-hand bat / Right-arm bowl",
+    "price": 1000000,
+    "image": "https://ui-avatars.com/api/?name=Ben+Stokes&background=random"
+  },
+  {
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "category": "Bowler",
+    "rating": 93,
+    "hand": "Left-arm fast",
+    "price": 1050000,
+    "image": "https://ui-avatars.com/api/?name=Mitchell+Starc&background=random"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "category": "All-rounder",
+    "rating": 94,
+    "hand": "Left-hand bat / Left-arm spin",
+    "price": 950000,
+    "image": "https://ui-avatars.com/api/?name=Shakib+Al+Hasan&background=random"
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "category": "Batsman",
+    "rating": 95,
+    "hand": "Right-hand bat",
+    "price": 1150000,
+    "image": "https://ui-avatars.com/api/?name=Joe+Root&background=random"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "category": "Batsman",
+    "rating": 96,
+    "hand": "Right-hand bat",
+    "price": 1120000,
+    "image": "https://ui-avatars.com/api/?name=Kane+Williamson&background=random"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "category": "Bowler",
+    "rating": 97,
+    "hand": "Right-arm fast",
+    "price": 1080000,
+    "image": "https://ui-avatars.com/api/?name=Jasprit+Bumrah&background=random"
+  },
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "category": "Batsman",
+    "rating": 98,
+    "hand": "Left-hand bat",
+    "price": 980000,
+    "image": "https://ui-avatars.com/api/?name=David+Warner&background=random"
+  },
+  {
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "category": "Bowler",
+    "rating": 99,
+    "hand": "Left-arm fast",
+    "price": 1020000,
+    "image": "https://ui-avatars.com/api/?name=Trent+Boult&background=random"
+  }
+]

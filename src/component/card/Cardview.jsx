@@ -3,11 +3,12 @@ import { CgProfile } from "react-icons/cg";
 import { CiFlag1 } from "react-icons/ci";
 
 
-export default function CardView({ item ,coin,setcoin}) {
+export default function CardView({ item ,coin,setcoin,select,setselect}) {
     const[selected,setselected]=useState(false)
     const handlefunc=()=>{
         setselected(true)
         setcoin(coin-item.price)
+        setselect([...select,item])
     }
   return (
     <div className=" max-w-xs bg-white rounded-xl shadow-lg overflow-hidden m-4 hover:scale-105 transform transition duration-300">
@@ -16,7 +17,7 @@ export default function CardView({ item ,coin,setcoin}) {
         <img
           src={item.image}
           alt={item.name}
-          className="w-full h-full object-cover"
+          className="w-full h-full object-contain"
         />
       </div>
 

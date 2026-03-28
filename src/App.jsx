@@ -7,7 +7,8 @@ import Selected from './component/card/Selected'
 export default function App() {
 
   const [data,setdata]=useState([])
-
+  const [select,setselect]=useState([])
+ 
   useEffect(()=>{
     fetch('/data.json')
     .then(res => res.json())
@@ -30,7 +31,7 @@ export default function App() {
         </div>
       </div>
       <Suspense fallback={<progress className="progress w-56"></progress>}>
-      {active === "available"?<Card coin={coin} setcoin={setcoin} data={data}></Card>:<Selected></Selected>}
+      {active === "available"?<Card select={select} setselect={setselect} coin={coin} setcoin={setcoin} data={data}></Card>:<Selected select={select}></Selected>}
 
         
 

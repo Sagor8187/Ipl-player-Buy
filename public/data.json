@@ -6,7 +6,7 @@
     "rating": 90,
     "hand": "Right-hand bat",
     "price": 1200,
-    "image": "https://ui-avatars.com/api/?name=Virat+Kohli&background=random"
+    "image": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/3993.png"
   },
   {
     "name": "Babar Azam",
@@ -15,7 +15,7 @@
     "rating": 91,
     "hand": "Right-hand bat",
     "price": 1100,
-    "image": "https://ui-avatars.com/api/?name=Babar+Azam&background=random"
+    "image": "https://static-files.cricket-australia.pulselive.com/headshots/288/568-camedia.png"
   },
   {
     "name": "Ben Stokes",
@@ -24,7 +24,7 @@
     "rating": 92,
     "hand": "Left-hand bat / Right-arm bowl",
     "price": 1000,
-    "image": "https://ui-avatars.com/api/?name=Ben+Stokes&background=random"
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2023/177.png"
   },
   {
     "name": "Mitchell Starc",
@@ -33,7 +33,7 @@
     "rating": 93,
     "hand": "Left-arm fast",
     "price": 1000,
-    "image": "https://ui-avatars.com/api/?name=Mitchell+Starc&background=random"
+    "image": "https://static-files.cricket-australia.pulselive.com/headshots/288/724-camedia.png"
   },
   {
     "name": "Shakib Al Hasan",
@@ -42,7 +42,7 @@
     "rating": 94,
     "hand": "Left-hand bat / Left-arm spin",
     "price": 9500,
-    "image": "https://ui-avatars.com/api/?name=Shakib+Al+Hasan&background=random"
+    "image": "https://www.bssnews.net/assets/news_photos/2024/05/11/image-188464-1715432155.jpg"
   },
   {
     "name": "Joe Root",
@@ -51,7 +51,7 @@
     "rating": 95,
     "hand": "Right-hand bat",
     "price": 1100,
-    "image": "https://ui-avatars.com/api/?name=Joe+Root&background=random"
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2023/312.png"
   },
   {
     "name": "Kane Williamson",
@@ -60,7 +60,7 @@
     "rating": 96,
     "hand": "Right-hand bat",
     "price": 1120,
-    "image": "https://ui-avatars.com/api/?name=Kane+Williamson&background=random"
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/65.png"
   },
   {
     "name": "Jasprit Bumrah",
@@ -69,7 +69,7 @@
     "rating": 97,
     "hand": "Right-arm fast",
     "price": 1080,
-    "image": "https://ui-avatars.com/api/?name=Jasprit+Bumrah&background=random"
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/9.png"
   },
   {
     "name": "David Warner",
@@ -78,7 +78,7 @@
     "rating": 98,
     "hand": "Left-hand bat",
     "price": 9800,
-    "image": "https://ui-avatars.com/api/?name=David+Warner&background=random"
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/214.png"
   },
   {
     "name": "Trent Boult",
@@ -87,6 +87,6 @@
     "rating": 99,
     "hand": "Left-arm fast",
     "price": 1000,
-    "image": "https://ui-avatars.com/api/?name=Trent+Boult&background=random"
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/66.png"
   }
 ]

@@ -1,8 +1,14 @@
-import React from "react";
+import React, { useState } from "react";
 import { CgProfile } from "react-icons/cg";
 import { CiFlag1 } from "react-icons/ci";
 
-export default function CardView({ item }) {
+
+export default function CardView({ item ,coin,setcoin}) {
+    const[selected,setselected]=useState(false)
+    const handlefunc=()=>{
+        setselected(true)
+        setcoin(coin-item.price)
+    }
   return (
     <div className=" max-w-xs bg-white rounded-xl shadow-lg overflow-hidden m-4 hover:scale-105 transform transition duration-300">
       {/* Player Image */}
@@ -35,8 +41,8 @@ export default function CardView({ item }) {
         </div>
 
         {/* Button */}
-        <button className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg w-full transition duration-200">
-          Choose Player
+        <button onClick={()=>handlefunc()} disabled={selected?true:false} className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg w-full transition duration-200">
+          {selected?"Selected":"Chose Player"} 
         </button>
       </div>
     </div>

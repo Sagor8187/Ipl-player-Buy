@@ -1,7 +1,7 @@
 import React from "react";
 import coinlogo from "../../assets/Currency.png"
 import logo from "../../assets/logo.png"
-export default function Navbar() {
+export default function Navbar({coin}) {
   return (
     <div>
       <div className="navbar bg-base-100 shadow-sm">
@@ -59,7 +59,7 @@ export default function Navbar() {
         </div>
         <div className="navbar-end ">
           <div className="btn flex justify-between gap-2 items-center font-bold">
-            <span>0 <span>Coin</span></span>
+           <span>{coin} Coin</span> 
             <img src={coinlogo} alt="" />
           </div>
         </div>

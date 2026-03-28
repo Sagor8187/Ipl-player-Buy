@@ -5,7 +5,7 @@
     "category": "Batsman",
     "rating": 90,
     "hand": "Right-hand bat",
-    "price": 1200000,
+    "price": 1200,
     "image": "https://ui-avatars.com/api/?name=Virat+Kohli&background=random"
   },
   {
@@ -14,7 +14,7 @@
     "category": "Batsman",
     "rating": 91,
     "hand": "Right-hand bat",
-    "price": 1100000,
+    "price": 1100,
     "image": "https://ui-avatars.com/api/?name=Babar+Azam&background=random"
   },
   {
@@ -23,7 +23,7 @@
     "category": "All-rounder",
     "rating": 92,
     "hand": "Left-hand bat / Right-arm bowl",
-    "price": 1000000,
+    "price": 1000,
     "image": "https://ui-avatars.com/api/?name=Ben+Stokes&background=random"
   },
   {
@@ -32,7 +32,7 @@
     "category": "Bowler",
     "rating": 93,
     "hand": "Left-arm fast",
-    "price": 1050000,
+    "price": 1000,
     "image": "https://ui-avatars.com/api/?name=Mitchell+Starc&background=random"
   },
   {
@@ -41,7 +41,7 @@
     "category": "All-rounder",
     "rating": 94,
     "hand": "Left-hand bat / Left-arm spin",
-    "price": 950000,
+    "price": 9500,
     "image": "https://ui-avatars.com/api/?name=Shakib+Al+Hasan&background=random"
   },
   {
@@ -50,7 +50,7 @@
     "category": "Batsman",
     "rating": 95,
     "hand": "Right-hand bat",
-    "price": 1150000,
+    "price": 1100,
     "image": "https://ui-avatars.com/api/?name=Joe+Root&background=random"
   },
   {
@@ -59,7 +59,7 @@
     "category": "Batsman",
     "rating": 96,
     "hand": "Right-hand bat",
-    "price": 1120000,
+    "price": 1120,
     "image": "https://ui-avatars.com/api/?name=Kane+Williamson&background=random"
   },
   {
@@ -68,7 +68,7 @@
     "category": "Bowler",
     "rating": 97,
     "hand": "Right-arm fast",
-    "price": 1080000,
+    "price": 1080,
     "image": "https://ui-avatars.com/api/?name=Jasprit+Bumrah&background=random"
   },
   {
@@ -77,7 +77,7 @@
     "category": "Batsman",
     "rating": 98,
     "hand": "Left-hand bat",
-    "price": 980000,
+    "price": 9800,
     "image": "https://ui-avatars.com/api/?name=David+Warner&background=random"
   },
   {
@@ -86,7 +86,7 @@
     "category": "Bowler",
     "rating": 99,
     "hand": "Left-arm fast",
-    "price": 1020000,
+    "price": 1000,
     "image": "https://ui-avatars.com/api/?name=Trent+Boult&background=random"
   }
 ]
